@@ -9,7 +9,7 @@
     "@usevenice/cdk-core": "workspace:*",
     "@usevenice/cdk-ledger": "workspace:*",
     "@usevenice/util": "workspace:*",
-    "jsonwebtoken": "8.5.1"
+    "jsonwebtoken": "9.0.0"
   },
   "devDependencies": {
     "@types/jsonwebtoken": "8.5.9"
