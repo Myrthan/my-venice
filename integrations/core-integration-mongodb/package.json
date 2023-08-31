@@ -9,6 +9,6 @@
   "dependencies": {
     "@usevenice/cdk-core": "workspace:*",
     "@usevenice/util": "workspace:*",
-    "mongodb": "4.9.1"
+    "mongodb": "4.17.0"
   }
 }
